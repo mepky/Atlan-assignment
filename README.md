@@ -31,11 +31,11 @@ In shapefile we have .dbf,.prj.shp,.shx file .
 I used .shp file for visualisation in Tableau.
 
 ## Visualisation with Tableau
-If you have online Tableau account then you could see it.[from here](https://prod-useast-a.online.tableau.com/#/site/kumar/views/Atlan-assignment/Sheet2?:iid=3)
-
-In case [use-it](https://github.com/mepky/Atlan-assignment/tree/master/Tableau-visualisation)
+If you have online Tableau account then you could see it.[press here](https://prod-useast-a.online.tableau.com/#/site/kumar/views/Atlan-assignment/Sheet2?:iid=3)
+In Other case [press it](https://github.com/mepky/Atlan-assignment/tree/master/Tableau-visualisation)
 
 1.[sheet1](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%201.pdf) shows the name of all the aminent or node we have extracted from osm data.*separate paragraph*.
+
 2.[sheet2](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%202.pdf) contains scatter plot of all extracted data points(latitude and longitude).*same line*.
 
 3.[sheet3](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%203.pdf) contains name,amenity and building names in column and in row total number of data presents.
