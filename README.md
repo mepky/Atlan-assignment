@@ -10,4 +10,15 @@
 The main pupose of this assignment is to get points of interest from open data sources like open street maps (OSM).
 We have to get points of interest data for one city so i have chosen my city (kolkata) , i framed the query in [overpass-turbo](https://overpass-turbo.eu/) to get the city POI data .In city point on interest ,i considered phisical entity that makes more sense like cafe,resturants,school,hospital,railways-station,airport,hoistorical-building,commercial-building etc.
 
+## Table of contents
+----------------  Get data from osm [osm data](https://www.openstreetmap.org/#map=11/28.6518/77.2219) choose the city kolkata and export it.  
+
+----------------- Go to the [overpass-turbo](https://overpass-turbo.eu/#) to fame query. [My-query](https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/query.txt) here, i saved query in query.txt file.
+After run query we got result like this: 
+<img src="https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/poi_result.png" align="right" hspace="1" vspace="1" height="100" width="268">
+
+----------------- Extract framed query data from [overpass-turbo](https://overpass-turbo.eu/#)
+
+----------------- Convert kolkata_data to kolkata_poi_data using [ogr2ogr](https://ogre.adc4gis.com/) here data will be converted to SHAPEFILE.
+
 
