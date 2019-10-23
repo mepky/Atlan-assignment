@@ -48,3 +48,21 @@ In Other case [press it](https://github.com/mepky/Atlan-assignment/tree/master/T
 
 7.[sheet7](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%207.pdf) contains ,which type of aminity presents how many times.
 
+https://github.com/mepky/Big-data/blob/master/praveen.jpeg?raw=true
+## Author
+
+<table>
+<tr>
+<td>
+     <img src="https://github.com/mepky/Big-data/blob/master/praveen.jpeg?raw=true" width="180"/>
+     
+     Prateek Gupta
+
+<p align="center">
+<a href = "https://github.com/mepky"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/praveen-kumar-2b46a016a/">
+
+</p>
+</td>
+</tr> 
+  </table>
