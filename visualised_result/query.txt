@@ -1,0 +1,35 @@
+/*
+This shows the cycleway and cycleroute network.
+*/
+
+//[out:json];
+
+//(
+  // get cycle route relations
+  //relation[route=bicycle]({{bbox}});
+  // get cycleways
+  //way[highway=cycleway]({{bbox}});
+  //way[highway=path][bicycle=designated]({{bbox}});
+//node["amenity"="cafe"]({{bbox}}); out;
+//);
+
+//out body;
+///>;
+//out skel qt;
+node["amenity"="cafe"]({{bbox}}); out;
+
+
+( node["amenity"="school"]({{bbox}});
+  //way["amenity"="highway"]({{bbox}});
+  //relation["amenity"="cafe"]({{bbox}});
+);out;
+node["amenity"="name"]({{bbox}}); out;
+node["railway"="platform"]({{bbox}}); out;
+node["bridge"="yes"]({{bbox}}); out;
+node["name"="hospitals"]({{bbox}}); out;
+node["amenity"="college"]({{bbox}}); out;
+node["landuse"="residential"]({{bbox}}); out;
+node["bridge"="vidauct"]({{bbox}}); out;
+node["building"="yes"]({{bbox}}); out;
+node["amenity"="marketplace"]({{bbox}}); out;
+node["building"="historical"]({{bbox}}); out;
