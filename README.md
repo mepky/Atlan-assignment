@@ -13,13 +13,15 @@ We have to get points of interest data for one city so i have chosen my city (ko
 ## Table of contents
 ----------------  Get OSM data from  [link](https://www.openstreetmap.org/#map=11/28.6518/77.2219)  and choose the city kolkata then export it.  
 
------------------ Go to the overpass-turbo [link](https://overpass-turbo.eu/#) to fame query.
-[link](https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/query.txt) i saved query in query.txt file.
-After run query i got result like: 
+----------------- Go to the overpass-turbo to fame query.
+[overpass-turbo](https://overpass-turbo.eu/#)
+[query](https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/query.txt)
+I saved my query in query.txt file.
+After run query we get result like: 
 <img src="https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/poi_result.png" align="right" hspace="1" vspace="1" height="400" width="368">
 
 ----------------- Extract framed query data from overpass-turbo
 
 ----------------- Convert the kolkata_osm_data to kolkata_poi_data using ogr2ogr.Data will be converted to SHAPEFILE.
-
+[ogr2ogr](https://ogre.adc4gis.com)
 
