@@ -26,5 +26,8 @@ After run query we get result like:
 [ogr2ogr](https://ogre.adc4gis.com)
 
 
-In shapefile we have .dbf,.prj.shp,.shx file ,i used .shp file for visualisation in Tableau. 
+In shapefile we have .dbf,.prj.shp,.shx file .
+
+I used .shp file for visualisation in Tableau.
+Here is the visualisation result
 
