@@ -29,5 +29,17 @@ After run query we get result like:
 In shapefile we have .dbf,.prj.shp,.shx file .
 
 I used .shp file for visualisation in Tableau.
-Here is the visualisation result
+
+## Visualisation with Tableau
+If you have online Tableau account then you could see it.[from here](https://prod-useast-a.online.tableau.com/#/site/kumar/views/Atlan-assignment/Sheet2?:iid=3)
+
+In case [use-it](https://github.com/mepky/Atlan-assignment/tree/master/Tableau-visualisation)
+
+1.[sheet1](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%201.pdf) shows the name of all the aminent or node we have extracted from osm data.
+2.[sheet2](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%202.pdf) contains scatter plot of all extracted data points(latitude and longitude).
+3.[sheet3](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%203.pdf) contains name,amenity and building names in column and in row total number of data presents.
+4.[sheet4](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%204.pdf) contains types of building (ex: commercial,historical etc..) in column .
+5.[sheet5](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%205.pdf) contains all the aminity with number of occurece in city kolkata.
+6.[sheet6](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%206.pdf) contains all the aminity with number of occurence(for ex: number of starbucks ,marketplace,cafe,school etc. All the POI data)
+7.[sheet7](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%207.pdf) contains ,which type of aminity presents how many times.
 
