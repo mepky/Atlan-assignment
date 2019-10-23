@@ -56,11 +56,11 @@ https://github.com/mepky/Big-data/blob/master/praveen.jpeg?raw=true
 <td>
      <img src="https://github.com/mepky/Big-data/blob/master/praveen.jpeg?raw=true" width="180"/>
      
-     Prateek Gupta
+     Praveen Kumar
 
 <p align="center">
 <a href = "https://github.com/mepky"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/praveen-kumar-2b46a016a/">
+<a href = "https://www.linkedin.com/in/praveen-kumar-2b46a016a/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 
 </p>
 </td>
