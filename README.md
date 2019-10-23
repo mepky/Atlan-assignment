@@ -11,11 +11,11 @@ The main pupose of this assignment is to get points of interest from open data s
 We have to get points of interest data for one city so i have chosen my city (kolkata) , i framed the query in [overpass-turbo](https://overpass-turbo.eu/) to get the city POI data .In city point on interest ,i considered phisical entity that makes more sense like cafe,resturants,school,hospital,railways-station,airport,hoistorical-building,commercial-building etc.
 
 ## Table of contents
-----------------  Get OSM data from  [link](https://www.openstreetmap.org/#map=11/28.6518/77.2219)  and choose the city kolkata then export it.  
+----------------  Get OSM data from  [osm dataset](https://www.openstreetmap.org/#map=11/28.6518/77.2219)  and choose the city kolkata then export it.  
 
 ----------------- Go to the overpass-turbo to fame query.
-[overpass-turbo](https://overpass-turbo.eu/#)
-[query](https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/query.txt)
+([overpass-turbo](https://overpass-turbo.eu/#))
+([query](https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/query.txt))
 I saved my query in query.txt file.
 After run query we get result like: 
 <img src="https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/poi_result.png" align="right" hspace="1" vspace="1" height="400" width="368">
