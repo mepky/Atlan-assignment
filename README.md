@@ -48,7 +48,7 @@ In Other case [press it](https://github.com/mepky/Atlan-assignment/tree/master/T
 
 7.[sheet7](https://github.com/mepky/Atlan-assignment/blob/master/Tableau-visualisation/Sheet%207.pdf) contains ,which type of aminity presents how many times.
 
-https://github.com/mepky/Big-data/blob/master/praveen.jpeg?raw=true
+
 ## Author
 
 <table>
