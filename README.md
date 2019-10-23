@@ -16,10 +16,10 @@ We have to get points of interest data for one city so i have chosen my city (ko
 ----------------- Go to the overpass-turbo [link](https://overpass-turbo.eu/#) to fame query.
 [link](https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/query.txt) i saved query in query.txt file.
 After run query i got result like: 
-<img src="https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/poi_result.png" align="right" hspace="1" vspace="1" height="400" width="268">
+<img src="https://github.com/mepky/Atlan-assignment/blob/master/visualised_result/poi_result.png" align="right" hspace="1" vspace="1" height="400" width="368">
 
 ----------------- Extract framed query data from overpass-turbo
 
------------------ Convert the kolkata_osm_data to kolkata_poi_data using ogr2ogr[API Link](https://ogre.adc4gis.com/).Data will be converted to SHAPEFILE.
+----------------- Convert the kolkata_osm_data to kolkata_poi_data using ogr2ogr.Data will be converted to SHAPEFILE.
 
 
