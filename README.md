@@ -59,9 +59,8 @@ In Other case [press it](https://github.com/mepky/Atlan-assignment/tree/master/T
      Praveen Kumar
 
 <p align="center">
-<a href = "https://github.com/prateekguptaiiitk"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/prateek_gupta21"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/prateekjpg/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+<a href = "https://github.com/mepky/Big-data/blob/master/praveen.jpeg?raw=true"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/praveen-kumar-2b46a016a/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
 </tr> 
