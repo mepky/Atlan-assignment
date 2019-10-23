@@ -25,3 +25,6 @@ After run query we get result like:
 ----------------- Convert the kolkata_osm_data to kolkata_poi_data using ogr2ogr.Data will be converted to SHAPEFILE.
 [ogr2ogr](https://ogre.adc4gis.com)
 
+
+In shapefile we have .dbf,.prj.shp,.shx file ,i used .shp file for visualisation in Tableau. 
+
