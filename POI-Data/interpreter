@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-10-22T08:59:02Z"/>
+
+  <node id="1579174171" lat="22.4424060" lon="88.4300344">
+    <tag k="addr:housename" v="Sonarpur Coffee House"/>
+    <tag k="addr:postcode" v="700150"/>
+    <tag k="addr:street" v="Sonarpur Station Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Sonarpur Coffee House"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="2464357923" lat="22.5827956" lon="88.4492497">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Coffee Day"/>
+  </node>
+  <node id="2464548270" lat="22.5826323" lon="88.4537664">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Coffee Day"/>
+  </node>
+  <node id="2464986060" lat="22.5798414" lon="88.4730872">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="IRCTC Cafe"/>
+  </node>
+  <node id="2560435257" lat="22.5164608" lon="88.3669256">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Coffee Day"/>
+  </node>
+  <node id="2560450679" lat="22.5164344" lon="88.3656505">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="baked"/>
+    <tag k="name" v="Just Baked"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="2561110172" lat="22.5529926" lon="88.3527098">
+    <tag k="amenity" v="cafe"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Café Coffee Day"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-00:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="2746986381" lat="22.5439950" lon="88.3583326">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Chocolate Room"/>
+  </node>
+  <node id="2746986382" lat="22.5437624" lon="88.3582462">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Coffee Day"/>
+  </node>
+  <node id="2962686822" lat="22.7546743" lon="88.5201548">
+    <tag k="addr:city" v="Bamangachi,Kolkata"/>
+    <tag k="addr:postcode" v="743248"/>
+    <tag k="addr:street" v="Notun Bazar Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="cy"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Cyber Cafe"/>
+    <tag k="phone" v="+919903028778"/>
+  </node>
+  <node id="3418913493" lat="22.5171093" lon="88.3609818">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Wise Owl"/>
+  </node>
+  <node id="3512180085" lat="22.5529144" lon="88.3528134">
+    <tag k="addr:city" v="Kolkata"/>
+    <tag k="addr:housenumber" v="25B"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Barista"/>
+  </node>
+  <node id="3807066487" lat="22.6012625" lon="88.4075467">
+    <tag k="addr:city" v="Kolkata"/>
+    <tag k="addr:housenumber" v="188, Block - B"/>
+    <tag k="addr:postcode" v="700089"/>
+    <tag k="addr:street" v="Lake Town Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Aqua Java Air"/>
+  </node>
+  <node id="4243771893" lat="22.5245108" lon="88.3524953">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe coffee day"/>
+  </node>
+  <node id="4364237746" lat="22.4752627" lon="88.4009281">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe Coffee Day"/>
+    <tag k="website" v="https://www.cafecoffeeday.com/"/>
+  </node>
+  <node id="4370643951" lat="22.5014712" lon="88.3517381">
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Crossroad Cafe"/>
+    <tag k="name:en" v="Crossroad Cafe"/>
+  </node>
+  <node id="4766298584" lat="22.5580743" lon="88.3541457">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Raj's Spanish Cafe"/>
+    <tag k="name:en" v="Raj's Spanish Cafe"/>
+  </node>
+  <node id="4841301732" lat="22.5690728" lon="88.3906231">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="Vegetarian_Indian"/>
+    <tag k="name" v="Pawanputra Restaurant"/>
+    <tag k="outdoor_seating" v="no"/>
+  </node>
+  <node id="5150935621" lat="22.5621436" lon="88.3535384">
+    <tag k="addr:housenumber" v="22-23"/>
+    <tag k="addr:street" v="Hogg St"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Nizam's"/>
+  </node>
+  <node id="5151716323" lat="22.5516985" lon="88.3525878">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Amber Cafe"/>
+  </node>
+  <node id="5598656722" lat="22.5524307" lon="88.3532304">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="5923972005" lat="22.5538718" lon="88.3519089">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="tea;coffee_shop;international;vegetarian"/>
+    <tag k="name" v="Cha Bar"/>
+  </node>
+  <node id="6135363744" lat="22.5528980" lon="88.3543572">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Café Harmony"/>
+  </node>
+  <node id="6135364481" lat="22.5446790" lon="88.3553121">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Café Coffee Day"/>
+  </node>
+  <node id="6138458223" lat="22.5473767" lon="88.3517657">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Spices and Sauces"/>
+    <tag k="phone" v="+91-33-2440-1314;+91-33-2440-8787;+91-98307-58920;+91-98304-04196"/>
+  </node>
+  <node id="6138458225" lat="22.5456757" lon="88.3525236">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Café Coffee Day"/>
+  </node>
+  <node id="6299181585" lat="22.5175878" lon="88.3594413">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Mystic Yoga Cafe"/>
+    <tag k="website" v="http://www.mysticyoga.in"/>
+  </node>
+  <node id="6533478594" lat="22.5581343" lon="88.3530887">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Curd Corner"/>
+  </node>
+  <node id="6698406886" lat="22.5605463" lon="88.3514908">
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Barista"/>
+  </node>
+  <node id="1283776632" lat="22.5595068" lon="88.3728451">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Loreto Convent"/>
+  </node>
+  <node id="1579184934" lat="22.4400409" lon="88.4176503">
+    <tag k="addr:postcode" v="700150"/>
+    <tag k="addr:street" v="Mission Pally"/>
+    <tag k="amenity" v="school"/>
+    <tag k="designation" v="School"/>
+    <tag k="name" v="Sarada Vidyapith"/>
+  </node>
+  <node id="1686118748" lat="22.5269916" lon="88.3674297">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Patha Bhavan Higher Secondary School"/>
+  </node>
+  <node id="1686118749" lat="22.5287655" lon="88.3683953">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Patha Bhavan High School"/>
+  </node>
+  <node id="1894645910" lat="22.4921890" lon="88.3146978">
+    <tag k="addr:street" v="D.r A.k paul raod"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="National Gems Higher Secoundry School"/>
+  </node>
+  <node id="1894648468" lat="22.4911829" lon="88.3158083">
+    <tag k="addr:street" v="Diamond Harbour road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Behla Blind School"/>
+  </node>
+  <node id="1894651523" lat="22.4924220" lon="88.3135230">
+    <tag k="addr:street" v="Fakir para road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Shaw Public Girls High School"/>
+  </node>
+  <node id="2266850256" lat="22.5645214" lon="88.3681468">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Loreto Girls School, Sealdah"/>
+  </node>
+  <node id="2383558698" lat="22.5882004" lon="88.3707472">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Duff Street"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Holy child school"/>
+  </node>
+  <node id="2429212166" lat="22.5764032" lon="88.4166053">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="St. Joan's School"/>
+  </node>
+  <node id="2454541733" lat="22.6121777" lon="88.4293256">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Calcutta Public School"/>
+  </node>
+  <node id="2460767459" lat="22.5918761" lon="88.4127596">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Aliah University"/>
+  </node>
+  <node id="2460827371" lat="22.5916061" lon="88.4095866">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Salt Lake Collegiate School"/>
+  </node>
+  <node id="2460843435" lat="22.5844913" lon="88.4053353">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Bidhannagar College"/>
+  </node>
+  <node id="2461173865" lat="22.5697093" lon="88.4294563">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Institute Of Engeneering &amp; Management Business School(ASHRAM CAMPUS)"/>
+  </node>
+  <node id="2461180971" lat="22.5715496" lon="88.4335976">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Globsyn Business School"/>
+  </node>
+  <node id="2471894139" lat="22.5254450" lon="88.3476941">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="The New Horizon High School"/>
+  </node>
+  <node id="3413973942" lat="22.5799109" lon="88.3740861">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Brahmo Balika Shikshalaya"/>
+  </node>
+  <node id="4199864992" lat="22.4733180" lon="88.3991558">
+    <tag k="addr:city" v="Kolkata"/>
+    <tag k="addr:housenumber" v="Block - V"/>
+    <tag k="addr:postcode" v="700094"/>
+    <tag k="addr:street" v="Panchayar Main Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Panchasayar Siksha Nikatan (HS) School"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="4467163754" lat="22.7213078" lon="88.3548797">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Risha High School"/>
+  </node>
+  <node id="4467208362" lat="22.7238175" lon="88.3526121">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Vivekananda English Academy"/>
+  </node>
+  <node id="4738184822" lat="22.5135819" lon="88.3550841">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Birla Academy of Art and Culture"/>
+    <tag k="name:en" v="Birla Academy of Art and Culture"/>
+  </node>
+  <node id="5162632122" lat="22.4852557" lon="88.3432922">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="ITI (TOLLYGUNGE)"/>
+  </node>
+  <node id="5162659223" lat="22.4852308" lon="88.3460047">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="ITI"/>
+  </node>
+  <node id="5162685021" lat="22.4856531" lon="88.3421025">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Swami pranabananda school"/>
+  </node>
+  <node id="5169245623" lat="22.5525146" lon="88.3621813">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="St.Augustine's Day School"/>
+    <tag k="name:en" v="St.Augustine's Day School"/>
+  </node>
+  <node id="5929440093" lat="22.6988189" lon="88.3884744">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Amarabati school"/>
+  </node>
+  <node id="5996138986" lat="22.5002815" lon="88.3623891">
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:postcode" v="700068"/>
+    <tag k="addr:street" v="Prince Anwar Shah Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="South City International School"/>
+    <tag k="website" v="http://scis.co.in"/>
+  </node>
+  <node id="6032681523" lat="22.4590976" lon="88.4176778">
+    <tag k="addr:city" v="Kolkata"/>
+    <tag k="addr:postcode" v="700152"/>
+    <tag k="addr:street" v="ganga joara road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Biswabani School"/>
+    <tag k="religion" v="hindu"/>
+  </node>
+  <node id="6135362109" lat="22.5528356" lon="88.3545701">
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="700016"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Jewish Girls' School"/>
+    <tag k="operator" v="Emunah Calcutta Jewish Trust"/>
+  </node>
+  <node id="6474357285" lat="22.6158823" lon="88.3940806">
+    <tag k="addr:postcode" v="700030"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Prachya Bani  Mondir for Boys"/>
+  </node>
+  <node id="6541624088" lat="22.5496347" lon="88.3526693">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Loreto School"/>
+  </node>
+  <node id="6551224485" lat="22.7258282" lon="88.3938467">
+    <tag k="addr:postcode" v="700118"/>
+    <tag k="addr:street" v="Rahara"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Ideal Girl's High School"/>
+  </node>
+  <node id="6573015485" lat="22.7535940" lon="88.2288754">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Kumragori  Shibtola"/>
+  </node>
+  <node id="6774997586" lat="22.6869122" lon="88.3032053">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Patha Bhaban"/>
+  </node>
+  <node id="6774997687" lat="22.6852234" lon="88.2990814">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Methodist School"/>
+  </node>
+  <node id="6774997785" lat="22.7179199" lon="88.2564865">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Janai Training School"/>
+  </node>
+  <node id="2310043421" lat="22.5882035" lon="88.3699130">
+    <tag k="addr:housenumber" v="main building"/>
+    <tag k="addr:street" v="Duff Street"/>
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="SCC - Main Building"/>
+  </node>
+  <node id="2461204976" lat="22.5621178" lon="88.4100264">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="National Institute Of Fashion Technology"/>
+  </node>
+  <node id="2461341619" lat="22.5727572" lon="88.4371412">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="International Institute of Photography"/>
+  </node>
+  <node id="2461349485" lat="22.5713652" lon="88.4344348">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="International Institute of Hotel Management"/>
+  </node>
+  <node id="2467764975" lat="22.4828028" lon="88.3904786">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Sammilani Mahavidyalaya"/>
+    <tag k="operator" v="University of Calcutta"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2468842549" lat="22.5737004" lon="88.4315782">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="B.P.Poddar Institute Of Management &amp; Technology"/>
+  </node>
+  <node id="2471894146" lat="22.5254231" lon="88.3461958">
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Shyamaprasad Mukherjee Road"/>
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Asutosh College"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-17:00; Sa 10:00-14:00"/>
+    <tag k="website" v="http://www.asutoshcollege.in/"/>
+  </node>
+  <node id="2471894149" lat="22.5253148" lon="88.3462050">
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Shyamaprasad Mukherjee Road"/>
+    <tag k="amenity" v="college"/>
+    <tag k="description" v="This a women's college"/>
+    <tag k="name" v="Jogomaya Devi College"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-11:00; Sa 06:30-09:00"/>
+    <tag k="website" v="http://www.jogamayadevicollege.org/"/>
+  </node>
+  <node id="2471894152" lat="22.5252052" lon="88.3462101">
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Shyamaprasad Mukherjee Road"/>
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Shyama Prasad College"/>
+    <tag k="opening_hours" v="Mo-Fr 15:30-21:30; Sa 15:30-18:30"/>
+    <tag k="website" v="http://www.syamaprasadcollege.in/contents/view/college-hours"/>
+  </node>
+  <node id="2471903965" lat="22.5256923" lon="88.3458247">
+    <tag k="amenity" v="college"/>
+  </node>
+  <node id="2471903966" lat="22.5248981" lon="88.3454990">
+    <tag k="amenity" v="college"/>
+  </node>
+  <node id="2505642370" lat="22.4819819" lon="88.3581756">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Netaji Nagar College"/>
+  </node>
+  <node id="3413973941" lat="22.5796076" lon="88.3738294">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Bose Institute"/>
+  </node>
+  <node id="4594497311" lat="22.5248313" lon="88.3695926">
+    <tag k="amenity" v="college"/>
+  </node>
+  <node id="5511682569" lat="22.5879269" lon="88.3695902">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="SCC - Physics and Chemistry Building"/>
+  </node>
+  <node id="5511682570" lat="22.5877685" lon="88.3701910">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Duff Building"/>
+  </node>
+  <node id="5809580153" lat="22.5445584" lon="88.3457358">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Academy of finr Arts"/>
+  </node>
+  <node id="6541668785" lat="22.7362217" lon="88.1973222">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Vidyasagar mahua vidyalaya"/>
+  </node>
+  <node id="6545322285" lat="22.7361935" lon="88.1972764">
+    <tag k="addr:postcode" v="712706"/>
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Vidyasagar mahua vidyalaya"/>
+  </node>
+  <node id="6545322385" lat="22.7362100" lon="88.1972687">
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Vidyasagar mahua vidyalaya"/>
+  </node>
+  <node id="249441566" lat="22.5982461" lon="88.4186512">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Central Govt. Staff Quarter"/>
+  </node>
+  <node id="249441571" lat="22.5988908" lon="88.4165655">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="CRP"/>
+  </node>
+  <node id="2462144711" lat="22.5010894" lon="88.3482316">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="City High"/>
+  </node>
+  <node id="2462144731" lat="22.5014629" lon="88.3468913">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Fort Mysore"/>
+  </node>
+  <node id="2464357944" lat="22.5806917" lon="88.4495294">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Millennium Towers"/>
+  </node>
+  <node id="2466267091" lat="22.6235411" lon="88.4676912">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Starlit Housing 2"/>
+  </node>
+  <node id="2466267092" lat="22.6224435" lon="88.4701120">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Starlit Housing 1"/>
+  </node>
+  <node id="2466267093" lat="22.6205487" lon="88.4690644">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Hiland Woods"/>
+  </node>
+  <node id="2468147116" lat="22.4751986" lon="88.4004376">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Upohaar"/>
+  </node>
+  <node id="6618904587" lat="22.5703321" lon="88.4477206">
+    <tag k="addr:city" v="Kolkata"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="700102"/>
+    <tag k="addr:street" v="Mahishbathan, Salt Lake"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="PANACHE"/>
+    <tag k="residential" v="apartments"/>
+  </node>
+  <node id="6779090336" lat="22.4736654" lon="88.3934599">
+    <tag k="addr:city" v="Kolkata"/>
+    <tag k="addr:housenumber" v="S-1/407"/>
+    <tag k="addr:postcode" v="700094"/>
+    <tag k="addr:street" v="B.P Township"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Bitasta Housing Cooperative Pvt. Ltd"/>
+    <tag k="residential" v="apartments"/>
+  </node>
+
+</osm>
